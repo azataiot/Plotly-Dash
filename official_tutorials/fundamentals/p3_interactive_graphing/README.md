@@ -11,3 +11,6 @@ or select regions of points in a graph.
 
 ![hover.gif](assets%2Fhover.gif)
 
+## Generic Cross Filtering
+
+![cross.gif](assets%2Fcross.gif)
